@@ -414,7 +414,7 @@ a:active {
 
 
 .customers__link svg {
-	width  : 104px;
+	width  : 102px;
 	height : 56px;
 
 	}
@@ -469,7 +469,7 @@ a:active {
 
 
 .footer__social .social__svg-bg {
-	background    : rgba(255, 255, 255, 0.1);
+	background: rgba(255, 255, 255, 0.1);
 	border-radius : 50px;
 	}
 
@@ -477,7 +477,7 @@ a:active {
 .footer__social .social__svg-bg:hover,
 .footer__social .social__svg-bg:active,
 .footer__social .social__svg-bg:focus {
-	background-color : var(--color-cta-ocean);
+	background-color : var(--color-green);
 	}
 
 
@@ -840,4 +840,10 @@ textarea {
 	margin : 0 auto;
 	width  : 169px;
 	height : 56px;
+	}
+
+
+.listss{
+	width: 100%;
+	max-width: 150px;
 	}
